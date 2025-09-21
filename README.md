@@ -35,13 +35,13 @@ ink add "Hello, Ink!"
 ink lst
 
 # View a note by ID
-ink view 00001
+ink view <note_id>
 
 # Search notes
 ink search "keyword"
 
 # Delete a note
-ink delete 00001
+ink delete <note_id>
 
 ## 🧪 Running Tests
 
@@ -59,10 +59,3 @@ Feel free to fork this repo, open issues, or submit PRs.
 MIT License © 2025 [a0x0p](https://github.com/a0x0p)
 
 ---
-
-👉 This covers **PyPI + GitHub** requirements:
-- A clear description
-- Installation instructions
-- Example usage
-- Tests
-- License
