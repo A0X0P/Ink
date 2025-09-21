@@ -19,7 +19,7 @@ pip install ink-notes
 
 Or install from source:
 
-git clone https://github.com/a0x0p/ink-notes.git
+git clone https://github.com/a0x0p/ink.git
 cd ink-notes
 pip install .
 
